@@ -15,7 +15,7 @@ on:
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni 
   DEVICE: a22x
-  DT_LINK: https://github.com/bluish193/a22-5g-twrp-android-13-edited/tree/bluish193-twrp-13
+  DT_LINK: https://github.com/bluish193/a22-5g-twrp-android-13/tree/Twrp-12
   DT_PATH: device/samsung/a22x
   TARGET: recoveryimage
   TZ: Asia/manila
